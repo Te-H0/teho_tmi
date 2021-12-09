@@ -26,7 +26,18 @@
 } /*pw입력 하는 input*/
 
 #pw_q {
+  position: relative;
   margin-top: 50px;
   color: white;
   font-size: 4vh;
 } /*비밀번호 질문*/
+button {
+  position: absolute;
+  left: 0%;
+}
+#q {
+  width: 180px;
+}
+h6 {
+  font-size: 2vw;
+}
