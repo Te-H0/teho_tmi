@@ -1,0 +1,31 @@
+#lock {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  display: block;
+  top: 0;
+  left: 0;
+  background-color: rgb(0, 0, 0);
+} /*잠금페이지 전체 컨테이너*/
+#pw_container {
+  position: relative;
+} /*잠금페이지 컨텐츠*/
+#pw_label {
+  position: absolute;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -30%);
+  color: white;
+  text-align: center;
+}
+#pw {
+  position: absolute;
+  left: 50%;
+  bottom: 35%;
+  transform: translate(-50%, 35%);
+} /*pw입력 하는 input*/
+
+#pw_q {
+  color: white;
+  font-size: 4vh;
+} /*비밀번호 질문*/

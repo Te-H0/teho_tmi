@@ -1,0 +1,50 @@
+#question {
+  /* position: absolute;
+  left: 15vw;
+  top: 20vh;
+  transform: translate(-15vw, -20vh); */
+  text-align: center;
+  font-size: 5.5vw;
+  font-weight: bold;
+  margin-top: 5vh;
+}
+#ex {
+  height: 40vh;
+}
+#contents {
+  position: relative;
+}
+ul {
+  position: absolute;
+  bottom: 45px;
+  list-style: none;
+  margin-left: 5vw;
+}
+ul:last-child {
+  padding-bottom: 5vh;
+}
+li {
+  text-align: left;
+}
+label {
+  margin-bottom: 1vh;
+  margin-left: 10px;
+}
+input {
+  position: absolute;
+  left: 10px;
+  width: 4vw;
+  height: 1.6vh;
+  margin-top: 6px;
+}
+/* span {
+  display: block;
+  margin-left: 10px;
+  margin-bottom: 1vh;
+} */
+#next-btn {
+  position: absolute;
+  left: 50%;
+  bottom: 5vw;
+  transform: translate(-50%, -5vw);
+}

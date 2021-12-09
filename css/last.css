@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "GmarketSansMedium";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "GmarketSansMedium";
+} /*전체 초기화 */
+a {
+  text-decoration: none;
+}
+#container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  background-color: #799090;
+} /*전체 컨텐츠를 감싸는 div*/
+#count {
+  display: inline;
+}
+#contents {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f0ece8;
+  color: #799090;
+  width: 83vw;
+  height: 70vh;
+  margin: 0 auto;
+  padding-top: 10%;
+  text-align: center;
+} /*컨텐츠 부분*/
+h2 {
+  font-size: 3vh;
+  line-height: 40vh;
+}
+h3 {
+  font-size: 2vh;
+}
