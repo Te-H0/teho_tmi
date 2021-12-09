@@ -25,6 +25,7 @@ ul:last-child {
 }
 li {
   text-align: left;
+  margin-bottom: 2vh;
 }
 label {
   margin-bottom: 1vh;
