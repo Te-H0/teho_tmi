@@ -1,4 +1,4 @@
-# TEHO TMI 
+# ❓TEHO TMI❓
 > 처음 만든 개발 작품 (2021/11 ~ 2021/12)
 - 연예인 벨런스 게임, 음식 퀴즈 게임, 성향 검사 등이 유행할 시절 생각해낸 프로젝트 입니다.
 - 이태호(본인)의 TMI를 기반으로 한 퀴즈 15개 중 랜덤으로 출제되는 10개의 문제를 푸는 퀴즈입니다.
@@ -6,7 +6,7 @@
 - 인스타그램으로 홍보 후 지인들에게 참여를 유도하기 위해 반응형 디자인을 했습니다. 모바일로 대부분 사용할 것이라 판단하여 비율은 핸드폰에 맞춰져 있습니다
 > 웹으로 사용시 화면 비율을 세로가 길게 (모바일 화면 처럼) 조절하여야 합니다. 첫 화면의 답은 이태호 입니다. https://te-h0.github.io/teho_tmi/
 
-## STACKS
+## 🛠️ STACKS
 <div align = center>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> 
